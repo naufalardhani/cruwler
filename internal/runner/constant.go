@@ -3,7 +3,7 @@
 const (
 	version = "0.0.1"
   author = "github.com/naufalardhani"
-  Banner = `
+  banner = `
     ___ _ __ _   ___      _| | ___ _ __ 
    / __| '__| | | \ \ /\ / / |/ _ \ '__|
   | (__| |  | |_| |\ V  V /| |  __/ |   
