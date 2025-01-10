@@ -1,4 +1,4 @@
-  package runner
+package runner
 
 const (
 	version = "0.0.1"
