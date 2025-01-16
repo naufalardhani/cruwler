@@ -1,7 +1,7 @@
 package runner
 
 const (
-	version = "0.0.1"
+	version = "1.0.0"
   author = "github.com/naufalardhani"
   banner = `
     ___ _ __ _   ___      _| | ___ _ __ 
