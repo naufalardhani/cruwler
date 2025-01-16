@@ -1,6 +1,16 @@
 # cruwler
 
 <p align="center">
+<a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blueviolet.svg"></a>
+<a href="https://github.com/naufalardhani/domhttpx/issues"><img src="https://img.shields.io/github/issues/naufalardhani/cruwler?color=blueviolet"></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/made%20with-Python3-blueviolet"></a>
+<a href="#"><img src="https://img.shields.io/badge/platform-osx%2Flinux%2Fwindows-blueviolet"></a>
+<a href="https://github.com/naufalardhani/cruwler/releases"><img src="https://img.shields.io/github/v/release/naufalardhani/cruwler?color=blueviolet"></a>
+</p>
+
+Cruwler is a tool designed to simplify web crawling for red teaming, offensive security, and penetration testing. It efficiently extracts URLs from target sites, aiding security professionals in identifying vulnerabilities.
+
+<p align="center">
   <img src="assets/img/cruwler.png" width="500">
 </p>
 
