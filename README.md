@@ -3,7 +3,7 @@
 <p align="center">
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blueviolet.svg"></a>
 <a href="https://github.com/naufalardhani/domhttpx/issues"><img src="https://img.shields.io/github/issues/naufalardhani/cruwler?color=blueviolet"></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/made%20with-Python3-blueviolet"></a>
+<a href="https://go.dev/"><img src="https://img.shields.io/badge/made%20with-Go-blueviolet"></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-osx%2Flinux%2Fwindows-blueviolet"></a>
 <a href="https://github.com/naufalardhani/cruwler/releases"><img src="https://img.shields.io/github/v/release/naufalardhani/cruwler?color=blueviolet"></a>
 </p>
